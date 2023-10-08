@@ -1,0 +1,5 @@
+
+        /* Agregar estilo personalizado para eliminar la línea divisoria */
+        .table-no-border tbody tr:first-child td {
+            border-top: none;
+        }
